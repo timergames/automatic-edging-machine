@@ -1,9 +1,20 @@
 # automatic-edging-machine
 A male masturbator that automatically stops before you cum (open source project)
 
+Licence - PRIVATE USE IS FREE. COMMERCIAL USE PROHIBITED.
+
+Yes - Print and use the 3D prints of the 3D model for private use;
+Yes - Share the images of your 3D prints of the 3D model on communication media such as social networks or websites.
+
+No - commercial use or public sharing of the 3D model;
+No - modification or adaptation of the 3D model for public sharing or sale;
+No - distribution, sale, donation or exchange of the digital files of the 3D model.
+
+(C) Copyright 2025 Badsub Designs. All rights reserved.
+
 Project Overview 
 
-Download the STL files from 
+Download the STL files from https://cults3d.com/en/3d-model/naughties/automatic-edging-machine-arduino-project 
 
 Diagram
 
