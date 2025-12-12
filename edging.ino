@@ -3,6 +3,17 @@
 #include "MAX30105.h"
 #include "heartRate.h"
 
+// Licence - PRIVATE USE IS FREE. COMMERCIAL USE IS PROHIBITED.
+// 
+// Yes - Print and use the 3D prints of the 3D model for private use; 
+// Yes - Share the images of your 3D prints of the 3D model on communication media such as social networks or websites.
+// 
+// No - commercial use or public sharing of the 3D model; 
+// No - modification or adaptation of the 3D model for public sharing or sale; 
+// No - distribution, sale, donation or exchange of the digital files of the 3D model.
+// 
+// (C) Copyright 2025 Badsub Designs. All rights reserved.
+
 // --- HARDWARE ---
 #define MOTOR_ENABLE 11
 #define MOTOR_IN1    10
